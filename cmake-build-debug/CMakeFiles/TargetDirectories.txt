@@ -1,0 +1,3 @@
+C:/Users/T/CLionProjects/sortare/cmake-build-debug/CMakeFiles/sortare.dir
+C:/Users/T/CLionProjects/sortare/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/T/CLionProjects/sortare/cmake-build-debug/CMakeFiles/rebuild_cache.dir
